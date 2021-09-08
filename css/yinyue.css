@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+.header6{
+	background: url("../images/index/dragon.jpg") no-repeat;
+	background-size: cover;
+	min-height:600px;
+	overflow: hidden;
+	background-attachment:fixed;
+}
+.mainter{
+	height:100px;
+	width:38%;
+	margin:120px 550px;
+	overflow: hidden;
+	padding-top: 150px;
+}
+
+.back{
+
+	background: url("../images/index/dragon.jpg") no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+	overflow: hidden;
+}
+
+
+.yinyue2{
+	width: 65%;
+	height: 650px;
+	margin: 150px 280px;
+	float: left;
+	color: #FFFFFF;
+	border-radius: 20px;
+	background-color: #1a1a1a;
+}
+.content{
+	width: 90%;
+	height: 600px;
+	margin: 0px auto;
+	padding-top: 30px;
+	background-color: #1a1a1a;
+}
+.content video{
+	width:98%;
+	height: 510px;
+
+}
+.content h2{
+	text-align: center;
+	font-family: STFangsong;
+	color: #FF8C00;
+}
